@@ -1,6 +1,7 @@
+# 🚀 IBM ACE & MQ CI/CD Pipeline - The "We're Getting There!" Edition 🏗️
 
-# 🚀 ACE + MQ Automated Deployment Pipeline 
-> ⚙️ **Mission:** Automating IBM ACE & MQ deployments modern DevOps practices.
+> **Status**: Still in "Work In Progress" mode 🚧  
+> Translation: We're making magic happen, one `git commit` at a time! ✨
 
 ---
 
@@ -14,7 +15,8 @@ Our goal: _“No more manual clicks, only controlled commits!”_ 😎
 
 ### 🏗️ Architecture Diagram
 
-![Architecture Diagram](./architecture-diagram.png)
+<img width="400" height="400" alt="ChatGPT Image Nov 1, 2025, 11_38_23 PM" src="https://github.com/user-attachments/assets/510d1a58-1abd-45c6-bcce-9be1292ec827" />
+
 > *Automated CI/CD pipeline for ACE + MQ — Git → Jenkins → Build → Store → Deploy → Validate → Notify*
 
 ---
@@ -40,7 +42,6 @@ Expect frequent commits, minor chaos, and occasional magic ✨.
 ### 💬 Contribution
 
 Feel free to fork, clone, or submit PRs!  
-Just remember: **never deploy to production on Fridays 😜**
 
 ---
 
