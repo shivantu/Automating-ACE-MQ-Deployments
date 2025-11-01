@@ -1,7 +1,7 @@
 
 # 🚀 ACE + MQ Automated Deployment Pipeline (Banking Edition)
 
-> ⚙️ **Mission:** Automating IBM ACE & MQ deployments for banking systems with modern DevOps practices.
+> ⚙️ **Mission:** Automating IBM ACE & MQ deployments modern DevOps practices.
 
 ---
 
