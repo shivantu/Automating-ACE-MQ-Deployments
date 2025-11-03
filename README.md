@@ -1,4 +1,4 @@
-# ⚡ The ACE-MQ Automation Journey: Work In Progress!
+# ⚡ The ACE-MQ Automation Journey: Work In Progress!!
 
 > **Status**: Still in "Work In Progress" mode 🚧  
 > Translation: We're making magic happen, one `git commit` at a time! ✨
